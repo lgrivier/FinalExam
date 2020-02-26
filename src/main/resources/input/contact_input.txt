@@ -1,0 +1,6 @@
+Friend,Sally Jons,232 Parkway,Detroit,MI,48199
+Friend,Doug Meh,3456 Best,Windy,IL,45678
+Family,Lula Gains,87 Roadie,Storm,KS,76589
+Friend,Kelly Sikes,13678 West,Lucky,FL,23456
+Business,Chase Weber,23 Mac,Rocky,CO,76588
+Family,Tony Starks,3000 Iron Man Drive,Marvel,CA,98088
